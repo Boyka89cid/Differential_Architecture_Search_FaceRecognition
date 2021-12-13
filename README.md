@@ -1,1 +1,1 @@
-# Differential_Architecture_Search_FaceRecognition
+# Differential Architecture Search for FaceRecognition from CelebA and LFW datasets
